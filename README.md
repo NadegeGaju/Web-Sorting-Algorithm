@@ -65,4 +65,5 @@ The Book entity will include the following attributes:
 10. Error Handling
 The API shall return appropriate HTTP status codes for different scenarios ( 200 for success, 404 for not found).
 This SRS document provides a comprehensive overview of my Advanced Web Sorting Algorithms project for book management. It covers the main requirements, API design, and other crucial aspects of the system. The document is structured to give a clear understanding of what the system do and how it should be built.
+Loom Link: "https://www.loom.com/share/c732c970ec984ec0af527663cb94df67"
 
